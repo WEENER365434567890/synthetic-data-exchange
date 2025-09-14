@@ -236,7 +236,7 @@ curl -X POST "http://localhost:8000/generate" \
 
 ## 📈 **Performance Benchmarks**
 
-### **Speed Tests (M1 MacBook Pro)**
+### **Speed Tests (Apple M2 Ultra)**
 - **Ultra-Fast Mode**: 1.2s for 1000 rows, 7 columns
 - **Optimized Mode**: 8.5s for 1000 rows (first run), 0.8s (cached)
 - **Enterprise Mode**: 45s for 1000 rows with full evaluation
