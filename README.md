@@ -20,6 +20,9 @@ A comprehensive platform that transforms your sensitive datasets into realistic 
 - **Researchers**: Access realistic datasets for academic studies
 - **Developers**: Test applications with production-like data in multiple formats
 
+### **DEMONSTRATION**
+https://github.com/user-attachments/assets/55ca4a0f-b15b-44b2-98ea-ce3c0b156755
+
 ## ✨ **Key Features**
 
 ### 🤖 **AI-Powered Generation**
@@ -347,10 +350,6 @@ python benchmark_modes.py
 - [ ] Enable rate limiting
 - [ ] Configure monitoring and logging
 - [ ] Set up backup strategy
-
-
-### **DEMONSTRATION**
-https://github.com/user-attachments/assets/55ca4a0f-b15b-44b2-98ea-ce3c0b156755
 
 ## 📄 **License & Commercial Use**
 
