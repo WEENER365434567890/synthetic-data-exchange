@@ -305,13 +305,6 @@ PYTORCH_ENABLE_MPS_FALLBACK=1  # For Apple Silicon compatibility
 SDV_DISABLE_MPS=1
 ```
 
-## 📚 **Documentation**
-
-- **API Documentation**: http://localhost:8000/docs (auto-generated)
-- **Performance Guide**: [PERFORMANCE_GUIDE.md](PERFORMANCE_GUIDE.md)
-- **Deployment Guide**: [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md)
-- **Feature Status**: [ENTERPRISE_FEATURES.md](ENTERPRISE_FEATURES.md)
-
 ## 🧪 **Testing**
 
 ### **Sample Data Included**
