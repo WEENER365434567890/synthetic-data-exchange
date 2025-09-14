@@ -2,7 +2,7 @@
 
 **Enterprise-grade AI platform for generating high-quality synthetic datasets with advanced privacy protection, industry-specific templates, and professional export capabilities.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](./LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-19+-blue.svg)](https://reactjs.org/)
@@ -349,9 +349,29 @@ python benchmark_modes.py
 - [ ] Set up backup strategy
 
 
-## 📄 **License**
+## 📄 **License & Commercial Use**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is **proprietary software** owned by WEENER365434567890. All rights reserved.
+
+### 🔒 **Usage Rights:**
+- ✅ **View Source Code**: For educational/evaluation purposes only
+- ✅ **Personal Testing**: Non-commercial testing and experimentation
+- ❌ **Commercial Use**: Requires paid license
+- ❌ **Redistribution**: Not permitted without written permission
+- ❌ **Modification**: Not permitted without licensing agreement
+
+### 💼 **Commercial Licensing:**
+For business use, enterprise deployment, or commercial applications:
+- 📧 **Contact**: [Your email for licensing inquiries]
+- 💰 **Custom Pricing**: Based on use case and scale
+- 🏢 **Enterprise Support**: Available with commercial license
+- 🔧 **Custom Features**: Available for licensed customers
+
+### ⚖️ **Legal Protection:**
+This software contains valuable intellectual property and trade secrets. 
+Unauthorized use, copying, or distribution may result in legal action.
+
+See the [LICENSE](LICENSE) file for complete terms and conditions.
 
 **Built with ❤️ for the data science community**
 
