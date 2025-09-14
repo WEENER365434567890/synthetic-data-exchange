@@ -60,4 +60,7 @@ package-lock.json
 
 # OS
 .DS_Store
-Thumbs.db../../.env
+Thumbs.db
+
+# Environment files (now at root level)
+.env
