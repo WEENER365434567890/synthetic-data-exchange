@@ -355,85 +355,10 @@ python benchmark_modes.py
 - [ ] Configure monitoring and logging
 - [ ] Set up backup strategy
 
-## 🤝 **Contributing**
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-### **Development Setup**
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Add tests for new functionality
-5. Commit your changes (`git commit -m 'Add amazing feature'`)
-6. Push to the branch (`git push origin feature/amazing-feature`)
-7. Open a Pull Request
 
 ## 📄 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 **Support**
-
-### **Common Issues**
-
-**Q: Generation is slow on Apple Silicon Macs**
-A: This is expected. We disable MPS acceleration for stability. Performance is still excellent with CPU-only processing.
-
-**Q: "Module not found" errors**
-A: Ensure all dependencies are installed: `pip install -r requirements.txt`
-
-**Q: CORS errors in browser**
-A: Check that CORS_ORIGINS includes your frontend URL in the backend configuration.
-
-**Q: Empty CSV downloads**
-A: This was a known issue that's been resolved. Ensure you're using the latest version.
-
-### **Getting Help**
-- 📧 **Email**: support@syntheticdata.exchange
-- 💬 **Discord**: [Join our community](https://discord.gg/syntheticdata)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- 📖 **Docs**: [Full Documentation](https://docs.syntheticdata.exchange)
-
-## 🌟 **Roadmap**
-
-### **✅ v0.2.0 (Current Release) - COMPLETE**
-- [x] Advanced time-series data generation (Energy, Mining, Healthcare)
-- [x] Geospatial data generation (Mining sites, Energy infrastructure)
-- [x] Healthcare/EHR synthetic data (HIPAA-compliant)
-- [x] Professional export formats (Excel, SQL, PDF reports)
-- [x] Enhanced API endpoints with multiple generation modes
-- [x] React 19 frontend with improved UX
-
-### **🔄 v0.3.0 (Next Release)**
-- [ ] Advanced privacy metrics (differential privacy)
-- [ ] API rate limiting and quotas
-- [ ] Enhanced constraint programming
-- [ ] Time-series pattern detection and replication
-- [ ] Advanced geospatial clustering algorithms
-
-### **🎯 v1.0 (Production Release)**
-- [ ] Multi-tenant architecture
-- [ ] Advanced user management and roles
-- [ ] Payment integration (Stripe)
-- [ ] Enterprise SSO support
-- [ ] Advanced analytics dashboard
-- [ ] Custom model training endpoints
-
-### **🚀 Future Releases**
-- [ ] Real-time data streaming
-- [ ] Integration with popular ML platforms (MLflow, Kubeflow)
-- [ ] Federated learning support
-- [ ] Advanced constraint programming with custom rules
-- [ ] Industry-specific compliance modules
-
-## 🏆 **Acknowledgments**
-
-- **SDV Team**: For the excellent Synthetic Data Vault library
-- **FastAPI**: For the amazing web framework
-- **React Team**: For the powerful frontend framework
-- **Contributors**: All the amazing people who have contributed to this project
-
----
 
 **Built with ❤️ for the data science community**
 
